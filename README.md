@@ -1,6 +1,6 @@
 # Guruji Astro || Front End Developer || Assignment
 
-[Deployed Link](https://guruji-astro-73f6.onrender.com)
+## [Guruji Astro](https://guruji-astro-73f6.onrender.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
